@@ -1,0 +1,22 @@
+.p_image {
+    width: 150px;
+    height: 150px;
+}
+
+.row {
+    margin: 12px 0;
+}
+
+.row>div {
+    display: inline-block;
+}
+
+.card {
+    width: 151px;
+    height: 210px;
+    margin: 3px;
+}
+
+.title {
+    padding: 8px 0 5px 0;
+}
